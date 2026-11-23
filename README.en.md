@@ -2,7 +2,7 @@
 
 Watch anime without ads and distractions. 🍿
 
-Release v2.1.0 supports **Anixart 10.5**. Upstream release v1.0.0 remains available for **Anixart 10.0**.
+Release v2.1.1 supports **Anixart 10.5**. Upstream release v1.0.0 remains available for **Anixart 10.0**.
 
 Patch bundle created by **Error404rt** using Morphe Patches.
 
@@ -13,7 +13,7 @@ Patch bundle created by **Error404rt** using Morphe Patches.
 ## 🩹 Patches
 
 <!-- PATCHES_START EXPANDED -->
-> **[v2.1.0](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.0)** &nbsp;•&nbsp; main &nbsp;•&nbsp; 2 patches total
+> **[v2.1.1](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.1)** &nbsp;•&nbsp; main &nbsp;•&nbsp; 2 patches total
 <details open>
 <summary>📦 Anixart &nbsp;•&nbsp; 2 patches</summary>
 <br>
@@ -38,7 +38,7 @@ This patch for Anixart 10.5 shows **Search for other options** even when the app
 
 ## 📱 Compatibility
 
-- **Current release:** v2.1.0
+- **Current release:** v2.1.1
 - **App:** Anixart
 - **Version:** 10.5
 - **Patches:** Always show other sources, Remove ads

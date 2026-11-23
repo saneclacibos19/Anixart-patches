@@ -1,3 +1,7 @@
+## [2.1.1](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.1) (2026-11-23)
+
+* Compile the patch bundle for Java 17 so current Morphe versions can load it.
+
 ## [2.1.0](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.0) (2026-11-23)
 
 * Always show other sources on the Anixart 10.5 streaming results screen.

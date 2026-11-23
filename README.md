@@ -11,7 +11,7 @@
 ## 🩹 Патчи
 
 <!-- PATCHES_START EXPANDED -->
-> **[v2.1.0](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
+> **[v2.1.1](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.1)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
 <summary>📦 Anixart&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
@@ -36,7 +36,7 @@
 
 ## 📱 Совместимость
 
-- **Актуальный релиз:** v2.1.0
+- **Актуальный релиз:** v2.1.1
 - **Версия:** 10.5
 - **Патчи:** Always show other sources, Remove ads
 
