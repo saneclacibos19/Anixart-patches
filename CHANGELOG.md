@@ -1,3 +1,7 @@
+## [2.1.0](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.0) (2026-11-23)
+
+* Always show other sources on the Anixart 10.5 streaming results screen.
+
 ## [2.0.0](https://github.com/Error404rt/Anixart-patches/compare/v1.0.0...v2.0.0) (2026-10-17)
 
 ### ⚠ BREAKING CHANGES

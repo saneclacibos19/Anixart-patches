@@ -6,14 +6,14 @@
 
 [🇷🇺 Русский](README.md) | [🇬🇧 English](README.en.md)
 
-[![Add to Morphe](https://img.shields.io/badge/Morphe-Add%20Source-00A8FF?style=for-the-badge)](https://morphe.software/add-source?github=Error404rt/Anixart-patches)
+[![Add to Morphe](https://img.shields.io/badge/Morphe-Add%20Source-00A8FF?style=for-the-badge)](https://morphe.software/add-source?github=saneclacibos19/Anixart-patches)
 
 ## 🩹 Патчи
 
 <!-- PATCHES_START EXPANDED -->
-> **[v2.0.0](https://github.com/Error404rt/Anixart-patches/releases/tag/v2.0.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;1 patches total
+> **[v2.1.0](https://github.com/saneclacibos19/Anixart-patches/releases/tag/v2.1.0)**&nbsp;&nbsp;•&nbsp;&nbsp;`main`&nbsp;&nbsp;•&nbsp;&nbsp;2 patches total
 <details open>
-<summary>📦 Anixart&nbsp;&nbsp;•&nbsp;&nbsp;1 patch</summary>
+<summary>📦 Anixart&nbsp;&nbsp;•&nbsp;&nbsp;2 patches</summary>
 <br>
 
 **🎯 Supported versions:**
@@ -23,6 +23,7 @@
 
 | 💊&nbsp;Patch | 📜&nbsp;Description | ⚙️&nbsp;Options |
 |----------|----------------|-----------|
+| [Always show other sources](#always-show-other-sources) | Всегда показывает кнопку «Искать другие варианты». | — |
 | [Remove ads](#remove-ads) | Смотрите аниме без отвлекающих баннеров рекламы. | • Баннерная реклама<br>• Межстраничная реклама<br>• Реклама перед Kodik |
 
 </details>
@@ -35,9 +36,9 @@
 
 ## 📱 Совместимость
 
-- **Актуальный релиз:** v2.0.0
+- **Актуальный релиз:** v2.1.0
 - **Версия:** 10.5
-- **Патч:** Remove ads
+- **Патчи:** Always show other sources, Remove ads
 
 Для Anixart 10.0 используйте предыдущий релиз [v1.0.0](https://github.com/Error404rt/Anixart-patches/releases/tag/v1.0.0).
 
@@ -45,8 +46,8 @@
 
 1. Установите оригинальный **Anixart 10.5**.
 2. Откройте Morphe Manager.
-3. Нажмите [Open in Morphe](https://morphe.software/add-source?github=Error404rt/Anixart-patches) или добавьте вручную https://github.com/Error404rt/Anixart-patches.
-4. Выберите **Remove ads** и нужные параметры.
+3. Нажмите [Open in Morphe](https://morphe.software/add-source?github=saneclacibos19/Anixart-patches) или добавьте вручную https://github.com/saneclacibos19/Anixart-patches.
+4. Проверьте, что выбраны **Always show other sources** и **Remove ads**.
 5. Соберите и установите пропатченное приложение.
 
 ## 🛠️ Разработка
